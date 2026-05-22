@@ -8,7 +8,7 @@
 <!-- Profile Picture + Name Block -->
 <div align="center">
 
-<img src="https://i.ibb.co.com/dw05nkTd/Screenshot-131.png" width="120" style="border-radius:50%;border:3px solid #58a6ff" />
+<img src="https://i.ibb.co.com/dw05nkTd/Screenshot-131.png" width="120" style="border-radius:100%;border:3px solid #58a6ff" />
 
 <br/>
 
@@ -98,26 +98,37 @@ const shakil = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mskazishakil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskazishakil&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+<!-- Stats + Languages side by side -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mskazishakil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskazishakil&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&card_width=320" />
 
 </div>
 
+<!-- Streak Card - full width -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mskazishakil&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=8b949e&sideNums=e6edf3&currStreakNum=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=21262d)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mskazishakil&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideNums=e6edf3&currStreakNum=e6edf3&sideLabels=8b949e&dates=484f58&stroke=21262d&border=21262d)](https://git.io/streak-stats)
 
 </div>
 
+<!-- Activity Graph -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mskazishakil&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true&radius=8)](https://github.com/mskazishakil)
+
+</div>
+
+<!-- Quick stat badges -->
+<div align="center">
+
+![Total Commits](https://img.shields.io/badge/Total%20Commits-24-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Public%20Repos-24-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Member Since](https://img.shields.io/badge/Member%20Since-Jul%202022-f78166?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+
+</div>
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mskazishakil&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true)](https://github.com/mskazishakil)
-
-</div>
 
 ---
 
